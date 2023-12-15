@@ -1,0 +1,1 @@
+These are the files necessary to view my responses to the questions outlined in assignment 12. I have included in the .py file my responses for both chapter 17.2 folow along, as well as exercize 17.1 on page 799.
